@@ -8,7 +8,7 @@ layout: home
 
 # Facetron: Multi-speaker Face-to-Speech Model based on Cross-modal Latent Representations
 
-Submitted to Transactions on Multimedia (Paper number: ####)
+
 
 ### Abstract 
 ---
